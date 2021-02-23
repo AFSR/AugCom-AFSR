@@ -86,8 +86,8 @@ export class AccountComponent implements OnInit {
    * return the icon url corresponding to the string s
    * @return the AFSR logo icon url
    */
-  getAFSRIcon() {
-    return this.getIconService.getIconPNGUrl("Logo-AFSR");
+  getAFSRIcon(s) {
+    return this.getIconService.getIconPNGUrl(s);
   }
 
 }

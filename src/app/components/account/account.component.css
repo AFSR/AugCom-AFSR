@@ -213,21 +213,39 @@
   display: none;
 }
 
-.imageAFSR{
-  background-size: 35px;
+.imageLogoAFSR {
+  background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
   visibility: visible;
   display: inline-block;
   height: 100%;
   width: 100%;
-/* padding: 5px;*/
+  /* padding: 5px;*/
 }
 
-.topBarAFSRLogo{
+.imageTextAFSR {
+  background-size: 70px;
+  background-repeat: no-repeat;
+  background-position: center;
+  visibility: visible;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  /* padding: 5px;*/
+}
+
+.topBarAFSRLogo {
   display: inline-block;
   height: 22px;
-  width: 40px;
-/* padding: 5px;*/
+  width: 25px;
+  /* padding: 5px;*/
+}
+
+.topBarAFSRText {
+  display: inline-block;
+  height: 22px;
+  width: 70px;
+  /* padding: 5px;*/
 }
 
