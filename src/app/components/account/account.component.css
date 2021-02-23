@@ -190,7 +190,7 @@
 }
 
 .menu-page-content-container {
-  height: calc(100% - 20px);
+  height: 100%;
   display: flex !important;
   flex-shrink: 0 !important;
 }
@@ -212,3 +212,22 @@
 .menu-page-content::-webkit-scrollbar {
   display: none;
 }
+
+.imageAFSR{
+  background-size: 35px;
+  background-repeat: no-repeat;
+  background-position: center;
+  visibility: visible;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+/* padding: 5px;*/
+}
+
+.topBarAFSRLogo{
+  display: inline-block;
+  height: 22px;
+  width: 40px;
+/* padding: 5px;*/
+}
+

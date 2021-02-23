@@ -38,3 +38,22 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+
+.imageAFSR{
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  visibility: visible;
+  display: inline-block;
+  height: 100%;
+  width: 100%;
+  padding: 5px;
+}
+
+.topBarAFSRLogo{
+  display: inline-block;
+  height: 100%;
+  width: 100px;
+  padding: 5px;
+}
